@@ -32,9 +32,9 @@ namespace Funcoes
                     C. A quantidade de Reprovados (Méida < 7)
                     D. A Média geral dos 10 alunos. */ 
 
-            string[] nomes = new string[3];
+            string[] nomes = new string[10];
             float[] notas = new float[4];
-            float[] media = new float[3];
+            float[] media = new float[10];
 
             for (int i = 0; i < nomes.Length; i++)
             {
